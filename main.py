@@ -2251,5 +2251,5 @@ if __name__ == "__main__":
 
 # git commit --amend (최근 커밋 메시지 수정)
 # git reset --soft HEAD~1 (로컬 커밋 취소 + 변경 유지)
-# git revert (원격에 push된 커밋 취소)
+# git revert (원격에 push된 커밋 취소) ##
 
